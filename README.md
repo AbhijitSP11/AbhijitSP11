@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working <h2>Web Development<h2> and <h2>Android Development<h2> Projects
+- ✅ Do checkout my personal portfolio
+- 🔭 I’m currently working Web Development and Android Development Projects
 - 🌱 I’m currently learning Full Stack development, Machine Learning and AI
 - 👯 I’m looking to collaborate on multiple projects
 - 🤔 I’m available Freelance work  
