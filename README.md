@@ -1,10 +1,6 @@
-[![MasterHead] (https://i.pinimg.com/originals/2a/0b/a1/2a0ba14814bcd29184d032dc46b8cb81.jpg)](https://github.com/abhi-j)
 <h1 align="center">Hi 👋, I'm Abhijit</h1>
 <h3 align="center">A developer and a designer from India</h3>
 
-<p align="right"> <img src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif" alt="abhi-j" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi-j" alt="abhi-j" /></a> </p>
 
 - 🔭 I’m currently working on [Web Development](Android Development)
 
