@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Full Stack development, Machine Learning and AI**
 
-- 👯 I’m looking to collaborate on **multiple projects**
-
 - 👨‍💻 All of my projects are available at [https://github.com/abhi-j](https://github.com/abhi-j)
 
 - 💬 Ask me about **React, Web, Android and design**
