@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Web Development](Android Development)
 
-- 🌱 I’m currently learning **Full Stack development, Machine Learning and AI**
+- 🌱 I’m currently learning **Full Stack development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhi-j](https://github.com/abhi-j)
 
